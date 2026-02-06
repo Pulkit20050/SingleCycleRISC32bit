@@ -30,5 +30,5 @@ Based on this, we can adjust the **timing of pipeline stages**.
 
 We can also add **pipelining** by introducing **pipeline registers (latches)** between each stage.
 
-There are also advanced techniques related to **instruction-level parallelism**, **out-of-order execution**, and having a good **instruction fetch unit**.  
-There are ways to deal with **in-order dependencies** and **data hazards**, and they are reputed for showing great results.
+There are also advanced techniques related to **instruction-level parallelism**, and having a good **instruction fetch unit**.  
+there are ways to deal with **in-order dependencies** and **data hazards**, and they are reputed for showing great results.
