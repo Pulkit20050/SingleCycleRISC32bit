@@ -1,4 +1,4 @@
-# RISC-V Processor Development Notes
+# RISC Processor Development Notes
 
 ## Architecture
 
